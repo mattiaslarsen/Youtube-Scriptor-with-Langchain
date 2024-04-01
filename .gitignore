@@ -11,6 +11,7 @@ lerna-debug.log*
 # Files
 adam.py
 apikey.py
+__pycache__/apikey.cpython-312.pyc
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
@@ -133,3 +134,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
